@@ -2,7 +2,7 @@
 
 ### Program to find out Open Reading Frames (ORF) from a DNA sequence.
 
-This program takes a string of DNA sequence as input and gives all the possible reading frames with the protein outcome (i.e. sequence of aminoacids) as output.
+This program takes a string of DNA sequence as input and gives all the possible reading frames within a SRART codon and stop codon with the protein outcome (i.e. sequence of aminoacids) as output.
 Output is also saved as a file named as "output.txt" .
 
 
